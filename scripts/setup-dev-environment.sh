@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Setup Development Environment Script
 # Automated setup for new developers joining the team
 # Author: Ricardo Valadez
